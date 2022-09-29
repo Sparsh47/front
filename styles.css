@@ -15,6 +15,7 @@
 }
 
 body{
+    min-height:100vh;
     background-color: var(--very-dark-blue);
     color: var(--white);
     font-family:var(--overpass);
